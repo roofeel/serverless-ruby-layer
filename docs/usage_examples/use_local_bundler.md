@@ -13,7 +13,7 @@ plugins:
 
 provider:
   name: aws
-  runtime: ruby3.2
+  runtime: ruby3.4
 
 functions:
   hello:
